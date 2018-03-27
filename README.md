@@ -4,4 +4,4 @@ To run these scripts you need the following packages installed: `tidyverse`, `ti
 
 # API Key
 
-You will need a US Census API key to run the scripts. You can get one [here](https://api.census.gov/data/key_signup.html). When you have your key make a copy of the file `census_api_key_TEMPLATE.R`, remove the suffix `_TEMPLATE` and where it says `[ADD IN YOUR KEY]` paste in your personal key.
+You will need a US Census API key to run the scripts. You can get one [here](https://api.census.gov/data/key_signup.html). When you have your key make a copy of the file `census_api_key_TEMPLATE.R`, remove the suffix `_TEMPLATE`, and where it says `[ADD IN YOUR KEY]` paste in your personal key.
